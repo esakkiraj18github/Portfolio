@@ -1,0 +1,13 @@
+.footer{
+    font-size: 0.8rem;
+    text-align: center;
+    background: linear-gradient(180deg, #45dbdba2, #5fb0e6 100%);
+    padding: 1rem;
+}
+
+@media (max-width: 320px){
+    .footer{
+        width: 110%;
+        text-align: center;
+    }
+}
